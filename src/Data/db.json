@@ -1,0 +1,167 @@
+[{
+  "name": "Mushfiqur Rahim",
+  "born":"Jun 09, 1987 (33 years)",
+  "birthPlace":"Bogra",
+  "country":"Bangladesh",
+  "role":"WK-Batsman", 
+  "battingStyle": "Right Handed Bat",
+  "bowlingStyle": "No",
+  "salary": "$7300",
+  "budget": 7300,
+  "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+ 
+  }, {
+    "name": "Shakib Al Hasan",
+    "born":"Mar 24, 1987 (33 years)",
+    "birthPlace":"Magura, Jessore",
+    "country":"Bangladesh",
+    "role":"Batting Allrounder", 
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "salary": "$4800",
+    "budget": 4800,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
+  }, {
+    "name": "Anamul Haque",
+    "born":"Dec 16, 1992 (28 years)",
+    "birthPlace":"Kushtia, Khulna",
+    "country":"Bangladesh",
+    "role":"WK-Batsman", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "No",
+    "salary": "$3600",
+    "budget": 3600,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155747/anamul-haque.jpg"
+  }, {
+    "name": "Tamim Iqbal",
+    "born":"Mar 20, 1989 (31 years)",
+    "birthPlace":"Chittagong",
+    "country":"Bangladesh",
+    "role":"Batsman", 
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "No",
+    "salary": "$7418",
+    "budget": 7418,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+  }, {
+    "name": "Mashrafe Mortaza",
+    "born":"Oct 05, 1983 (37 years)",
+    "birthPlace":"Norail, Jessore",
+    "country":"Bangladesh",
+    "role":"Bowler", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "salary": "$4800",
+    "budget": 4800,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
+  }, {
+    "name": "Soumya Sarkar",
+    "born":"Feb 25, 1993 (28 years)",
+    "birthPlace":"Satkhira",
+    "country":"Bangladesh",
+    "role":"Batsman", 
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "Right-arm medium",
+    "salary": "$4800",
+    "budget": 4800,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg"
+  }, {
+    "name": "Sabbir Rahman",
+    "born":"Nov 22, 1991 (29 years)",
+    "birthPlace":"Rajsahi",
+    "country":"Bangladesh",
+    "role":"Batsman", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "salary": "$3600",
+    "budget": 3600,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg"
+  }, {
+    "name": "Mahmudullah",
+    "born":"Feb 04, 1986 (35 years)",
+    "birthPlace":"Mymensingh",
+    "country":"Bangladesh",
+    "role":"Batting Allrounder", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "salary": "$4800",
+    "budget": 4800,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+  }, {
+    "name": "Mustafizur Rahman",
+    "born":"Sep 06, 1995 (25 years)",
+    "birthPlace":"Satkhira",
+    "country":"Bangladesh",
+    "role":"Bowler", 
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "salary": "$2355",
+    "budget": 2355,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+  }, {
+    "name": "Rubel Hossain",
+    "born":"Jan 01, 1990 (31 years)",
+    "birthPlace":"Bagerhat, Khulna",
+    "country":"Bangladesh",
+    "role":"Bowler", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "salary": "$4800",
+    "budget": 4800,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg"
+  }, {
+    "name": "Mohammad Mithun",
+    "born":"Mar 02, 1991 (29 years)",
+    "birthPlace":"Kushtia, Khulna",
+    "country":"Bangladesh",
+    "role":"WK-Batsman", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "No",
+    "salary": "$2355",
+    "budget": 2355,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170918/mohammad-mithun.jpg"
+  }, {
+    "name": "Mehidy Hasan",
+    "born":"Oct 25, 1997 (23 years)",
+    "birthPlace":"Khulna",
+    "country":"Bangladesh",
+    "role":"Bowling Allrounder", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "salary": "$3600",
+    "budget": 3600,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg"
+  }, {
+    "name": "Liton Das",
+    "born":"Oct 13, 1994 (26 years)",
+    "birthPlace":"Dinajpur",
+    "country":"Bangladesh",
+    "role":"WK-Batsman", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "No",
+    "salary": "$3600",
+    "budget": 3600,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg"
+  }, {
+    "name": "Mohammad Saifuddin",
+    "born":"Nov 01, 1996 (24 years)",
+    "birthPlace":"Feni, Chittagong",
+    "country":"Bangladesh",
+    "role":"Batting Allrounder", 
+    "battingStyle": "Left Handed Bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "salary": "$1766",
+    "budget": 1766,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg"
+  }, {
+    "name": "Mosaddek Hossain",
+    "born":"Dec 10, 1995 (25 years)",
+    "birthPlace":"Mymensingh",
+    "country":"Bangladesh",
+    "role":"Batting Allrounder", 
+    "battingStyle": "Right Handed Bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "salary": "$2355",
+    "budget": 2355,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg"
+  }]

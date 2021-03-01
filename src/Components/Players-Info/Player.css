@@ -1,0 +1,22 @@
+.players-container{
+    display: flex;
+  }
+  .player-container{
+    width: 450px;
+    height: 580px;
+    background: #fff;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    text-align: start;
+  }
+  h3{
+      font-size: 25px;
+  }
+  
+  
+  
+  
+  
+  
+  
